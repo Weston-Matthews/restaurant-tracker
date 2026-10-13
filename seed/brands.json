@@ -1,0 +1,200 @@
+[
+  {
+    "id": "brn_dunkin",
+    "name": "Dunkin'",
+    "aliases": ["Dunkin", "Dunkin Donuts", "Dunkin\u2019"],
+    "parent_company_id": "co_inspire",
+    "pe": "yes",
+    "source_url": "https://www.inspirebrands.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2020-12-15"
+  },
+  {
+    "id": "brn_baskin_robbins",
+    "name": "Baskin-Robbins",
+    "aliases": ["Baskin Robbins"],
+    "parent_company_id": "co_inspire",
+    "pe": "yes",
+    "source_url": "https://www.inspirebrands.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2020-12-15"
+  },
+  {
+    "id": "brn_arbys",
+    "name": "Arby's",
+    "aliases": ["Arbys"],
+    "parent_company_id": "co_inspire",
+    "pe": "yes",
+    "source_url": "https://www.inspirebrands.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2018-01-01"
+  },
+  {
+    "id": "brn_sonic",
+    "name": "Sonic",
+    "aliases": ["Sonic Drive-In"],
+    "parent_company_id": "co_inspire",
+    "pe": "yes",
+    "source_url": "https://www.inspirebrands.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2018-12-01"
+  },
+  {
+    "id": "brn_buffalo_wild_wings",
+    "name": "Buffalo Wild Wings",
+    "aliases": ["BWW", "Buffalo Wild Wings Grill & Bar"],
+    "parent_company_id": "co_inspire",
+    "pe": "yes",
+    "source_url": "https://www.inspirebrands.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2018-01-01"
+  },
+  {
+    "id": "brn_jimmy_johns",
+    "name": "Jimmy John's",
+    "aliases": ["Jimmy Johns"],
+    "parent_company_id": "co_inspire",
+    "pe": "yes",
+    "source_url": "https://www.inspirebrands.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2019-10-01"
+  },
+  {
+    "id": "brn_subway",
+    "name": "Subway",
+    "aliases": [],
+    "parent_company_id": "co_roark",
+    "pe": "yes",
+    "source_url": "https://www.roarkcapital.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2023-08-01"
+  },
+  {
+    "id": "brn_auntie_annes",
+    "name": "Auntie Anne's",
+    "aliases": ["Auntie Annes"],
+    "parent_company_id": "co_goto",
+    "pe": "yes",
+    "source_url": "https://www.gotofoods.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2001-01-01"
+  },
+  {
+    "id": "brn_cinnabon",
+    "name": "Cinnabon",
+    "aliases": [],
+    "parent_company_id": "co_goto",
+    "pe": "yes",
+    "source_url": "https://www.gotofoods.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2004-01-01"
+  },
+  {
+    "id": "brn_carvel",
+    "name": "Carvel",
+    "aliases": [],
+    "parent_company_id": "co_goto",
+    "pe": "yes",
+    "source_url": "https://www.gotofoods.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2001-01-01"
+  },
+  {
+    "id": "brn_jamba",
+    "name": "Jamba",
+    "aliases": ["Jamba Juice"],
+    "parent_company_id": "co_goto",
+    "pe": "yes",
+    "source_url": "https://www.gotofoods.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2019-01-01"
+  },
+  {
+    "id": "brn_mcalisters",
+    "name": "McAlister's Deli",
+    "aliases": ["McAlisters", "McAlister's"],
+    "parent_company_id": "co_goto",
+    "pe": "yes",
+    "source_url": "https://www.gotofoods.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2005-01-01"
+  },
+  {
+    "id": "brn_moes",
+    "name": "Moe's Southwest Grill",
+    "aliases": ["Moe's", "Moes"],
+    "parent_company_id": "co_goto",
+    "pe": "yes",
+    "source_url": "https://www.gotofoods.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2007-01-01"
+  },
+  {
+    "id": "brn_schlotzskys",
+    "name": "Schlotzsky's",
+    "aliases": ["Schlotzskys"],
+    "parent_company_id": "co_goto",
+    "pe": "yes",
+    "source_url": "https://www.gotofoods.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2006-01-01"
+  },
+  {
+    "id": "brn_carls_jr",
+    "name": "Carl's Jr.",
+    "aliases": ["Carls Jr", "Carl's Jr"],
+    "parent_company_id": "co_cke",
+    "pe": "yes",
+    "source_url": "https://www.ckr.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2013-01-01"
+  },
+  {
+    "id": "brn_hardees",
+    "name": "Hardee's",
+    "aliases": ["Hardees"],
+    "parent_company_id": "co_cke",
+    "pe": "yes",
+    "source_url": "https://www.ckr.com",
+    "source_type": "official_site",
+    "reliability": 5,
+    "observed_at": "2013-01-01"
+  },
+  {
+    "id": "brn_daves_hot_chicken",
+    "name": "Dave's Hot Chicken",
+    "aliases": ["Daves Hot Chicken"],
+    "parent_company_id": "co_roark",
+    "pe": "yes",
+    "source_url": "https://www.roarkcapital.com",
+    "source_type": "news",
+    "reliability": 5,
+    "observed_at": "2025-06-02"
+  },
+  {
+    "id": "brn_jersey_mikes",
+    "name": "Jersey Mike's",
+    "aliases": ["Jersey Mikes", "Jersey Mike's Subs"],
+    "parent_company_id": "co_blackstone",
+    "pe": "yes",
+    "source_url": "https://www.blackstone.com",
+    "source_type": "news",
+    "reliability": 5,
+    "observed_at": "2025-01-01"
+  }
+]
