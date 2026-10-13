@@ -1,0 +1,11 @@
+# Large generated data files (upload separately or use Git LFS)
+seed/nyc_restaurants_enriched.json
+seed/nyc_pe_matched.json
+map/nyc-smoke-points.json
+map/nyc-smoke-preview.png
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
