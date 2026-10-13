@@ -1,0 +1,51 @@
+{
+  "version": "v1",
+  "notes": "Precision over recall. Soft hedges like 'whenever possible' do not fire a hard claim.",
+  "claims_independent": {
+    "fire": [
+      "family-owned",
+      "family owned",
+      "family-owned and operated",
+      "family run",
+      "family-run",
+      "independently owned",
+      "independently owned and operated",
+      "locally owned",
+      "mom-and-pop",
+      "mom and pop",
+      "not a chain",
+      "still runs the joint",
+      "the family still runs"
+    ],
+    "do_not_fire": [
+      "family meals",
+      "family style",
+      "family-friendly",
+      "bring the family",
+      "franchisee-owned"
+    ]
+  },
+  "claims_local_produce": {
+    "fire": [
+      "locally sourced",
+      "local sourced",
+      "farm-to-table",
+      "farm to table",
+      "farm-to-fork",
+      "farm to fork",
+      "from local farms",
+      "from our farm",
+      "hyperlocal",
+      "our farmers",
+      "sourced from local farms"
+    ],
+    "do_not_fire": [
+      "whenever possible",
+      "where possible",
+      "where ever possible",
+      "seasonal when available",
+      "responsibly sourced",
+      "sustainably sourced"
+    ]
+  }
+}

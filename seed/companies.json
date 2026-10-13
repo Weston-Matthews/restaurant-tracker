@@ -1,0 +1,44 @@
+[
+  {
+    "id": "co_wonder",
+    "name": "Wonder",
+    "type": "wonder",
+    "website": "https://www.wonder.com",
+    "notes": "Marc Lore mealtime platform; operates multi-brand kitchens"
+  },
+  {
+    "id": "co_roark",
+    "name": "Roark Capital",
+    "type": "private_equity",
+    "website": "https://www.roarkcapital.com",
+    "notes": "Major restaurant PE firm"
+  },
+  {
+    "id": "co_inspire",
+    "name": "Inspire Brands",
+    "type": "private_equity",
+    "website": "https://www.inspirebrands.com",
+    "notes": "Roark-backed; parent of Dunkin', Arby's, Sonic, etc."
+  },
+  {
+    "id": "co_goto",
+    "name": "GoTo Foods",
+    "type": "private_equity",
+    "website": "https://www.gotofoods.com",
+    "notes": "Roark-backed; formerly Focus Brands"
+  },
+  {
+    "id": "co_cke",
+    "name": "CKE Restaurants",
+    "type": "private_equity",
+    "website": "https://www.ckr.com",
+    "notes": "Roark-backed; Carl's Jr. / Hardee's"
+  },
+  {
+    "id": "co_blackstone",
+    "name": "Blackstone",
+    "type": "private_equity",
+    "website": "https://www.blackstone.com",
+    "notes": "Jersey Mike's acquirer"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "version": "v1.1",
+  "updated": "2026-08-23",
+  "pe": ["yes", "no", "unknown"],
+  "wonder": ["owned_kitchen", "platform_brand", "service_customer", "none", "unknown"],
+  "wonder_services": ["produce", "marketing", "website", "delivery"],
+  "produce": ["sysco_primary", "wonder_industrial", "mixed", "local_primary", "unknown"],
+  "notes": {
+    "owned_kitchen": "Physical Wonder site / DBA WONDER. Ownership penalty.",
+    "platform_brand": "Menu cooked on Wonder line; not a standalone independent restaurant.",
+    "service_customer": "Independent operator using Wonder B2B (produce, marketing, AI site). No ownership penalty.",
+    "none": "Confirmed no Wonder relationship.",
+    "unknown": "Default. Neutral.",
+    "wonder_industrial": "Treat like Sysco-primary for sourcing_lie when restaurant claims local produce."
+  }
+}

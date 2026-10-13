@@ -1,0 +1,27 @@
+{
+  "version": "v1.1",
+  "base": 70,
+  "pe": {"yes": -30, "no": 10, "unknown": 0},
+  "wonder": {
+    "owned_kitchen": -25,
+    "platform_brand": -25,
+    "service_customer": 0,
+    "none": 5,
+    "unknown": 0
+  },
+  "produce": {
+    "sysco_primary": -20,
+    "wonder_industrial": -20,
+    "mixed": -5,
+    "local_primary": 15,
+    "unknown": 0
+  },
+  "penalties": {
+    "ownership_lie": -20,
+    "sourcing_lie": -15
+  },
+  "ownership_lie_when": "claims_independent AND (pe==yes OR wonder in owned_kitchen|platform_brand)",
+  "sourcing_lie_when": "claims_local_produce AND (produce in sysco_primary|wonder_industrial OR wonder in owned_kitchen|platform_brand)",
+  "coverage": "count(pe,wonder,produce not unknown) / 3. service_customer counts as known wonder.",
+  "clamp": [0, 100]
+}
